@@ -1,0 +1,8 @@
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/DemoApplication.java
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/SpringBootDemoApplication.java
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/config/AppConfig.java
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/controller/UserController.java
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/controller/WebController.java
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/model/User.java
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/repository/UserRepository.java
+/workspaces/spring-boot-demo/src/main/java/com/example/spring_boot_demo/service/UserService.java
